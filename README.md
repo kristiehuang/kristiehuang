@@ -9,5 +9,5 @@
 Looking for crypto, SWE, product opportunities for summer 2021.
 
 **Reach me:**
-- [`@kristiehuang` on Twitter](twitter.com/kristiehuang)
-- [`LinkedIn`](linkedin.com/in/kristie-huang/)
+- [`@kristiehuang` on Twitter](https://twitter.com/kristiehuang)
+- [`LinkedIn`](https://www.linkedin.com/in/kristie-huang/)
