@@ -6,7 +6,7 @@
 - 💬  Let's chat about payments, crypto/DeFi, startups, dried mangoes, and DEI in tech!
 - 📍  SF Bay Area, CA
 
-Looking for crypto, SWE, product opportunities for summer 2021.
+Open to crypto, SWE, product opportunities.
 
 **Reach me:**
 - [`@kristiehuang` on Twitter](https://twitter.com/kristiehuang)
