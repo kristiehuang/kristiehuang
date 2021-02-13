@@ -12,3 +12,4 @@
 **Reach me:**
 - [`@kristiehuang` on Twitter](https://twitter.com/kristiehuang)
 - [`LinkedIn`](https://www.linkedin.com/in/kristie-huang/)
+- [kristiehuang.com](http://kristiehuang.com/)
