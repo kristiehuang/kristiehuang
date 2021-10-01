@@ -10,5 +10,6 @@
 
 **Reach me:**
 - [kristiehuang.com](http://kristiehuang.com/)
-- [`@kristiehuang` on Twitter](https://twitter.com/kristiehuang)
-- [`LinkedIn`](https://www.linkedin.com/in/kristie-huang/)
+- [@kristiehuang on Twitter](https://twitter.com/kristiehuang)
+- kristiehuang01 at gmail
+- [LinkedIn](https://www.linkedin.com/in/kristie-huang/)
