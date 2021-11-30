@@ -4,7 +4,7 @@
 - 🔗 Crypto geek (SWE intern @ Nascent, core @ she256, founded Komorebi Collective)
 - 🧸 UC Berkeley EECS + Business
 - 🌱 Joys: lifting, adventuring, volleyball
-- ⏪ Previously: SWE intern @ Novi Financial, platform intern @ Pantera Capital, SWE intern @ Facebook, product design intern @ a fintech startup, cofounded a fashion tech venture, built and launched two iOS apps to the App Store, and editor-in-chief @ Pandora's Box Creative Magazine.
+- ⏪ Previously: SWE intern @ Novi Financial, platform intern @ Pantera Capital, SWE intern @ Facebook, product design intern @ a fintech startup
 - 📍 SF Bay Area, CA
 
 
