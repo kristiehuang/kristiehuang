@@ -1,10 +1,10 @@
 ### Hey, I’m Kristie! 👋
 (she/her)
 
-- 🔗 Crypto geek (SWE intern @ Novi Financial [FB crypto], operations lead @ she256, investment @ Komorebi Collective)
+- 🔗 Crypto geek (SWE intern @ Nascent, core @ she256, founded Komorebi Collective)
 - 🧸 UC Berkeley EECS + Business
-- 🌱 Joys: running, cycling, hiking, reading
-- ⏪ Previously: intern @ Pantera Capital, iOS software engineering intern @ Facebook Univ, product design intern @ a fintech startup, cofounded a fashion tech venture, built and launched two iOS apps to the App Store, and editor-in-chief @ Pandora's Box Creative Magazine.
+- 🌱 Joys: lifting, adventuring, volleyball
+- ⏪ Previously: SWE intern @ Novi Financial, platform intern @ Pantera Capital, SWE intern @ Facebook, product design intern @ a fintech startup, cofounded a fashion tech venture, built and launched two iOS apps to the App Store, and editor-in-chief @ Pandora's Box Creative Magazine.
 - 📍 SF Bay Area, CA
 
 
