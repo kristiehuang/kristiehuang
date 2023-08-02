@@ -1,1 +1,5 @@
-[kristiehuang.com](https://kristiehuang.com/), [@kristiehuang on Twitter](https://twitter.com/kristiehuang), or kristiehuang01 at gmail
+## Hey, I'm Kristie!
+
+Worked at Uniswap Labs, graduated from UC Berkeley, & previously ran operations at she256. 
+
+More on me [kristiehuang.com](https://kristiehuang.com/), & reach me at [@kristiehuang on Twitter](https://twitter.com/kristiehuang) or kristiehuang01 at gmail
